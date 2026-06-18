@@ -1,0 +1,37 @@
+[ 1 ] Name 5 IT job roles and write one line about what each role does.
+Here are 5 common IT job roles :
+
+1. Software Developer – Designs, codes, and tests applications or systems to solve problems or meet user needs.
+
+2. Network Engineer – Plans, builds, and maintains an organization's computer networks to ensure reliable connectivity.
+
+3. Cybersecurity Analyst – Monitors systems for threats and vulnerabilities, protecting data and infrastructure from cyberattacks.
+
+4. Cloud Architect – Designs and oversees cloud computing strategies, ensuring scalable and secure cloud infrastructure.
+
+5. Data Scientist – Analyzes large datasets using statistics and machine learning to extract insights and support decision-making.
+
+
+
+
+
+
+
+
+[ 2 ] List 3 product companies and 3 service companies with one example of work each does
+Here are 3 product companies and 3 service companies:
+
+--> Product Companies
+(Companies that create and sell tangible or software products)
+
+1. **Apple** – Designs and sells consumer electronics like the iPhone, MacBook, and iPad.
+2. **Microsoft** – Develops and sells software products like Windows OS and the Microsoft 365 suite.
+3. **Adobe** – Creates and sells creative software like Photoshop and Illustrator for designers and media professionals.
+
+
+--> Service Companies
+(Companies that provide expertise, skills, or labor rather than a physical product)
+
+1. Accenture– Provides IT consulting and managed services to help businesses with digital transformation.
+2. Infosys – Offers software development and outsourcing services to clients across industries globally.
+3. IBM Global Services – Delivers IT infrastructure support and cloud management services to enterprises worldwide.
