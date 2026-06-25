@@ -1,0 +1,67 @@
+[ 1 ] List all 6 phases of SDLC in order with one line about each.
+1. Requirement Gathering
+Collecting and documenting what the client wants and what the software must do before anything else begins.
+
+2. Analysis
+Examining the gathered requirements in depth to check their feasibility, clarity, and to identify any risks or gaps.
+
+3. Designing
+Creating the blueprint of the system — deciding the architecture, database structure, UI layout, and technology to be used.
+
+4. Implementation
+Developers write the actual code and build the software based on the approved design documents.
+
+5. Testing
+The built software is thoroughly checked for bugs, errors, and performance issues to ensure it meets the requirement.
+
+6. Maintenance
+After the software is live, any issues reported by users are fixed and updates are made to keep it running smoothly over time.
+
+===================================================================================================================================================
+
+[ 2 ] Write 3 differences between Agile and Waterfall models.
+1. Approach to Development
+Waterfall follows a strict sequential process where each phase must be fully completed before the next begins, whereas Agile follows an iterative approach where the project is broken into small cycles called sprints, delivering working software continuously.
+
+2. Flexibility to Changes
+Waterfall is rigid — once requirements are finalized, making changes mid-project is difficult and costly, whereas Agile is highly flexible — changes and new requirements can be accommodated at any point during development.
+
+3. Client Involvement
+In Waterfall, the client is involved mainly at the beginning (requirements) and the end (delivery), whereas in Agile, the client is involved throughout the entire development process, giving feedback after every sprint.
+
+=====================================================================================================================================================
+
+[ 3 ] Name the 3 main Scrum roles and write one line about the responsibility of each.
+1. Product Owner
+Represents the client and business side — defines what needs to be built by managing and prioritizing the product backlog.
+
+2. Scrum Master
+Acts as a facilitator and guide for the team — ensures the Scrum process is followed and removes any obstacles blocking the team's progress.
+
+3. Development Team
+A self-organizing group of developers, testers, and designers — responsible for actually building and delivering working software at the end of each sprint.
+
+========================================================================================================================================================
+
+[ 4 ] What is a Sprint in Scrum? Mention its typical duration.
+A Sprint is a short, fixed period of time during which the Scrum team works to complete a specific set of tasks from the product backlog and deliver a working, usable piece of software by the end of it.
+
+Duration
+A Sprint usually lasts anywhere from 1 to 4 weeks, with 2 weeks being the most commonly used duration in most Scrum teams.
+
+=========================================================================================================================================================
+
+[ 5 ] What do these Jira board columns mean: To Do, In Progress, Done, Backlog?
+1. Backlog
+A running list of all tasks, features, and bug fixes that need to be done in the future but have not yet been picked up for the current sprint. It is the holding area for all pending work, prioritized by the Product Owner.
+
+2. To Do
+Tasks that have been selected and planned for the current sprint but work on them has not started yet. These are committed tasks waiting to be picked up by a team member.
+
+3. In Progress
+Tasks that a team member has actively started working on right now. Any item being coded, tested, or reviewed moves into this column to show the team it is currently being handled.
+
+4. Done
+Tasks that have been fully completed, reviewed, and meet the team's Definition of Done — meaning they are tested, approved, and ready for delivery.
+
+
