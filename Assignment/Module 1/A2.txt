@@ -1,0 +1,40 @@
+[ 1 ] What are the three main layers of software architecture? Write one line about each.
+1. Presentation Layer : The part the user sees and interacts with — buttons, forms, and screens.
+2. Business Layer : The brain of the application — processes data, applies rules, and handles core functionality.
+3. Data Layer : Stores, retrieves, and manages all the application's data persistently.
+
+===========================================================================================================================
+
+
+[ 2 ] Define client and server in your own words with one real-life example
+Client : A client is the one who requests a service — it's the device or application that asks for information or action from another system.
+Server : A server is the one who responds to that request — it's a powerful system that stores data or runs services and delivers them to the client on demand.
+
+Example:-
+Client : You (the customer) placing an order
+Server : The kitchen preparing and serving the food
+
+
+==============================================================================================================================
+
+[ 3 ] Write 2 differences each between desktop apps, web apps, and mobile apps.
+1. Desktop Apps vs Web Apps
+A desktop app like MS Word needs to be installed on your computer and can work without internet, whereas a web app like Google Docs runs directly in a browser and requires an internet connection to function.
+
+2. Web Apps vs Mobile Apps
+A web app is accessible from any device through a browser and requires no download, whereas a mobile app is specifically designed for smartphones and must be downloaded from an app store like Google Play or the App Store.
+
+3. Mobile Apps vs Desktop Apps
+A mobile app is built for small touchscreens and takes advantage of phone features like GPS and camera, whereas a desktop app is designed for larger screens with keyboard and mouse input, making it better suited for complex, performance-heavy tasks.
+
+================================================================================================================================
+
+[ 4 ] Name any 3 databases and mention whether each is SQL or NoSQL
+1. MySQL — SQL
+A widely used open-source relational database that stores data in structured tables with rows and columns. Commonly used in web applications and backed by companies like Facebook and Twitter.
+
+2. MongoDB — NoSQL
+A popular NoSQL database that stores data in flexible, JSON-like documents instead of tables. Ideal for applications where data structure can change frequently, like content platforms or real-time apps.
+
+3. PostgreSQL — SQL
+A powerful, open-source relational database known for its advanced features and reliability. Widely used in enterprise applications and supports complex queries and large datasets.
