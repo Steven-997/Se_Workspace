@@ -17,9 +17,7 @@ git pull does both — it fetches and automatically merges the latest changes fr
 ========================================================================================================================================================
 
 [ 3 ] Create a new GitHub repository, push any small text file from your local system, and share the repo link.
-
 https://github.com/Steven-997/SD007
-
 
 =========================================================================================================================================================
 
