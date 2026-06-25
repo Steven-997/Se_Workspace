@@ -1,0 +1,61 @@
+[ 1 ] Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP
+1. HTTP — HyperText Transfer Protocol
+Used to transfer and load web pages and data between a client (browser) and a server over the internet.
+
+2. HTTPS — HyperText Transfer Protocol Secure
+The secure version of HTTP that encrypts data during transfer, keeping sensitive information like passwords and payments safe.
+
+3. FTP — File Transfer Protocol
+Used to transfer files from one computer to another over a network, commonly used by developers to upload files to a web server.
+
+4. SMTP — Simple Mail Transfer Protocol
+Used to send emails from one server to another — it is the standard protocol that powers outgoing email delivery.
+
+==============================================================================================================================================
+
+[ 2 ] What is the difference between IPv4 and IPv6? Answer in 2 lines.
+IPv4 is the older version of internet addressing that uses a 32-bit address (e.g., 192.168.1.1), supporting around 4.3 billion unique addresses, which have nearly run out due to the massive growth of internet-connected devices.
+
+IPv6 is the newer version that uses a 128-bit address (e.g., 2001:0db8:85a3::8a2e:0370:7334), supporting an virtually unlimited number of addresses — enough to assign one to every atom on Earth — solving the shortage problem permanently.
+
+==============================================================================================================================================
+
+[ 3 ] Run nslookup google.com on your system and write down the IP address you get.
+IP Address : 173.194.195.138
+
+===============================================================================================================================================
+
+[ 4 ] What do these HTTP status codes mean: 200, 301, 404, 500, 403?
+1. 200 — OK
+The request was successful — the server found what was asked and returned it properly. This is the standard response for a working webpage or API call.
+
+2. 301 — Moved Permanently 
+The requested page or resource has been permanently moved to a new URL. The browser is automatically redirected to the new address. Commonly used when websites change their domain or restructure URLs.
+
+3. 404 — Not Found 
+The server could not find the requested page or resource. This usually means the URL is wrong, the page has been deleted, or it never existed. The most commonly seen error on the web.
+
+4. 500 — Internal Server Error 
+Something went wrong on the server's side — it received the request but crashed or failed while trying to process it. The client did nothing wrong; it's a backend/developer-side problem.
+
+5. 403 — Forbidden
+The server understood the request but refuses to allow access. Unlike 404, the page exists — but the user does not have permission to view it. Common on admin panels or restricted content.
+
+==================================================================================================================================================
+
+[ 5 ] Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example.
+1. Root Level ( . )
+The invisible top of the DNS tree, represented by a dot . at the end of every domain (usually hidden). It is managed by 13 sets of root servers worldwide and is the starting point for all DNS lookups.
+In www.google.com — the hidden root is www.google.com.
+
+2. TLD — Top Level Domain ( .com )
+The first visible level after the root. It categorizes domains broadly by type or country. Examples include .com, .org, .net, .in, .edu. Each TLD is managed by a specific organization (e.g., Verisign manages .com).
+In www.google.com — the TLD is .com
+
+3. Domain ( google )
+This is the unique name registered by a person or organization under a TLD. It is what identifies the brand or entity on the internet. Google has registered the name google under .com.
+In www.google.com — the domain is google
+
+4. Subdomain ( www )
+A prefix added to the main domain to point to a specific section or server. www is the most common subdomain representing the main website. Others could be mail.google.com, drive.google.com, or maps.google.com.
+In www.google.com — the subdomain is www
