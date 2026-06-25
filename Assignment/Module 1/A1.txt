@@ -12,11 +12,7 @@ Here are 5 common IT job roles :
 5. Data Scientist – Analyzes large datasets using statistics and machine learning to extract insights and support decision-making.
 
 
-
-
-
-
-
+==================================================================================================================================================
 
 [ 2 ] List 3 product companies and 3 service companies with one example of work each does
 Here are 3 product companies and 3 service companies:
@@ -35,3 +31,42 @@ Here are 3 product companies and 3 service companies:
 1. Accenture– Provides IT consulting and managed services to help businesses with digital transformation.
 2. Infosys – Offers software development and outsourcing services to clients across industries globally.
 3. IBM Global Services – Delivers IT infrastructure support and cloud management services to enterprises worldwide.
+
+
+
+====================================================================================================================================================
+
+
+[ 3 ] Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.
+GitHub - GitHub  
+Use - A platform for hosting, sharing, and collaborating on code using Git version control.
+
+Slack - Searchable Log of All Conversation and Knowledge
+Use - A messaging and collaboration tool for teams to communicate in organized channels.
+
+Jira - JIRA (derived from Gojira, Japanese for Godzilla)
+Use - A project management tool for tracking bugs, tasks, and agile workflows.
+
+IDE - Integrated Development Environment
+Use - A software application that provides tools like a code editor, debugger, and compiler in one place.
+
+API - Application Programming Interface
+Use- A set of rules that allows different software applications to communicate with each other.
+
+
+=====================================================================================================================================================
+
+[ 4 ] Name any 5 programming languages and mention one popular use case for each
+Python : Data Science & Machine Learning (used in libraries like TensorFlow, Pandas)
+JavaScript : Web Development — building interactive front-end interfaces (used with React, Vue)
+Java : Enterprise & Android App Development (used in large-scale backend systems)
+C++ : Game Development & System Programming (used in Unreal Engine, OS kernels
+SQL : Database Management — querying and managing relational databases (MySQL, PostgreSQL)
+
+
+======================================================================================================================================================
+
+[ 5 ] What is the difference between a developer and a tester? Answer in 2 lines.
+A developer writes and builds the code that creates a software application, while a tester checks that code for bugs, errors, and ensures the software works as expected.
+
+
